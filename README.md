@@ -53,4 +53,18 @@ Python Preprocessing (initial cohort prep)
 
 ### 🔗 Related Projects
 If you're curious about the Python version of this analysis:
-👉 Customer Cohort Analysis in Python
+👉 [Customer Cohort Analysis in Python
+](https://github.com/Psychizzy/customer-cohort-analysis)
+
+## Insights Summary
+Most churn happens after the 1st or 2nd month
+
+ARPU varies significantly by cohort and country
+
+RFM analysis shows large base of inactive customers
+
+Executive KPIs provide quick health checks of revenue and retention
+
+Contact
+Feel free to connect on LinkedIn or fork and explore the dashboard.
+
