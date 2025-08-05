@@ -98,3 +98,15 @@ Executive KPIs provide quick health checks of revenue and retention
 Contact
 Feel free to connect on LinkedIn or fork and explore the dashboard.
 
+## 📁 Dataset Access
+
+[![Request Dataset](https://img.shields.io/badge/Dataset-Request-blue)](mailto:your.email@example.com)
+
+### ⚠️Note;
+ Due to GitHub’s file size limitations, the dataset is not included in this repository.
+
+This dataset was used strictly for educational and portfolio purposes.  
+If you'd like access to explore or replicate this analysis, feel free to reach out!
+
+
+
