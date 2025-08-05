@@ -38,6 +38,36 @@ To help the company understand **customer lifecycle behavior**:
 - Dashboard usage instructions
 - Business recommendations
 
+
+
+## 📊 Dashboard Visuals (Power BI Report)
+
+### 🔹 Executive Summary Page  
+![Executive Report](Full Report & Visuals/Executive report.png)
+
+### 🔹 Customer Cohort & Retention Analysis  
+![Cohort & Retention](Full Report & Visuals/cohort & retention.png)
+
+### 🔹 ARPU by Cohort  
+![ARPU by Cohort](Full Report & Visuals/arpu_by_cohort.png)
+
+### 🔹 Retention Heatmap  
+![Retention Heatmap](Full Report & Visuals/retention_heatmap.png)
+
+### 🔹 RFM Analysis – Scatter Plot  
+![RFM Scatter Plot](Full Report & Visuals/rfm_scatter_plot.png)
+
+### 🔹 RFM Segment Distribution  
+![RFM Pie Chart](Full Report & Visuals/RFM.png)
+
+### 🔹 Revenue Trend by Cohort  
+![Total Revenue](Full Report & Visuals/total_revenue_by_cohort.png)
+
+### 🔹 Summary and Business Insight  
+![Summary Insight](Full Report & Visuals/Summary and insight.png)
+
+
+
 ---
 
 ### Key Learnings & Tools Used
